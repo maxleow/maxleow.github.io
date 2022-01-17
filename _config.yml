@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Max Leow
+title: Senior Test Automation Engineer
+email: maxengiu@outlook.com
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  maxlinux
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: max-eng-iu-leow-a055b912
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,70 +48,250 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Max and I'm a senior test automation engineer. 
+  As well as Quality Assurance, I also have experience making software, 
+  data analysis and report visualization. 
+  I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most specialized in: <mark>AWS</mark>, <mark>terraform</mark>, 
+  <mark>python</mark>, <mark>jenkins</mark> and <mark>Selenium</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Helical railgun
+        link: github.com/achelois-armoury/helical-railgun
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  achelois-armoury/helical-railgun
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/maxlinux
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Let every of your unit test count
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project during a hackathon event. We are using [Testrail](https://www.gurock.com/testrail/) 
+          as our [Test Oracle](https://en.wikipedia.org/wiki/Test_Oracle). To publish the results, it often troublesome
+          due to some dependencies behind the pipelines, which can be simplify through this solution.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Experian 
+        link: experian.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Senior QA Engineer
+        caption: November 2013 - Present
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            ## 2020 - Present (QA)
+            
+            Consolidating test results and visualized into interactive charts, 
+            grouping by products, groups, teams, priorities in a time series manner.
+            Tools and libraries I was using 
+            <mark>AWS EC2 instance</mark> for api hosting, 
+            <mark>Python 3.7</mark> to aggragate results and as a REST server, 
+            <mark>EazyBI</mark> to Data visualization plugin,
+            <mark>Bitbucket</mark> as a storage and 
+            <mark>Terraform</mark> for deployment.
+
+            ----------------------    
+
+            ## 2018 - 2020 (QA)
+            
+            Design, implement and maintain product provisionining scripts using 
+            <mark>Ansible</mark>, <mark>Packer</mark> and terraform for the entire 
+            test automation pipelines. Promoting component testing as a left shift strategy.
+
+            -------------------
+            
+            ## 2016 - 2018 (QA)
+            
+            Leading <mark>Cucumber</mark> and <mark>Selenium</mark> projects development, such as 
+            coaching, library development, Writting [Chef](https://www.chef.io/) recipe, 
+            preparing process and best practices for all the scrum teams.
+
+            -------------------
+
+            ## 2015 - 2016 (QA)
+            
+            Supervising automation test out-sourcing written in <mark>QFTest</mark>, 
+            review, verify and facilitate the vendor to contribute 
+            seamlessly.
+
+            --------------------
+
+
+            ## 2013 - 2014 (Developer)  
+            
+            Responsible for implementing features into PCO (Powercurve Origination). 
+            Have joined a scrum team for more than a year. 
+            The first person who implemented a new platform(RHEL) supported PCO (BPS, Web Engine).
+
+            --------------------------
+      - layout: left
+        title: Openet
+        link: openet.com
+        # link_text: boringcompany.com
+        sub_title: Software Design Engineer
+        caption: November 2010 - 2013
+        description: | # this will include new lines to allow paragraphs
+            ## 2012 - 2013 
+            
+            PCEF (policy charging enforcement function) is an element mainly used by the Telecommunication 
+            industry. Since the PCRF software is implemented against the standard defined by 
+            3GPP(3rd Generation Partnership Project), requirement for shipping user interface to 
+            different PCEF vendors is important. 
+            I am responsible for developing a Web base configuration system to manage 
+            the rule configuration on PCRF.
+
+            -------------------------
+
+            ## 2011-2012 
+            
+            Openet Installation Framework. It is a command based framework that deploys components 
+            to multiple platforms. It also summarized methods and ways of component installations 
+            into one package. My responsibility is to maintain and gather the requirements to 
+            enhance the framework to be able support multiple platform deployment.
+
+            --------------------------
+
+            ## 2010-2011 
+            
+            Automated test framework. It is used by engineering to automate deployment and testing. 
+            My responsibilities are to add a Web base testing using Selenium library into this framework.
+            
+            --------------------------
+
+            ## Skill set: 
+
+            JBOSS application server, Maven, EJB3.0, Hibernate 3.0, SEAM, GWT(Google Web Toolkit), 
+            HTML, Java script, Selenium web automation test,  JSF2.0, ORACLE 11g, H2 Database.
+
+
+            ## Platforms:
+
+            RHE6, HP-Unix, Sun Solaris SPARC, Sun Solaris x86.
+
+            ------------------------------
+      
+      - layout: left
+        title: Amdocs Changing Worlds Malaysia
+        link: changingworlds.com
+        # link_text: boringcompany.com
+        sub_title: Software Design Engineer
+        caption: 2008 - 2010
+        description: | # this will include new lines to allow paragraphs
+
+            ## 2009 - 2010 
+
+            Maintaining existing product, Device Description Repository(DDR), 
+            Used to collect latest mobile devices specification 
+            information from UAProf and WURFL and host as application server for Telecommunication 
+            company Wap Portal. 
+
+            -----------------------------
+
+            ## 2008 - 2009 
+
+            Maintaining existing product, XSL IDE, is a proprietery IDE to do with Extensible Style Language (XSL). 
+            A new copy of XSL will be generated after retrieving information from DDR. 
+            The xsl then will be passed to a translation engine to translate a best viewed HTML or WAP 
+            page for a particular mobile device that is visiting the portal. 
+            For the sake of easy maintenance and time saving, XSL IDE is created. 
+            It produces a startup template and graphical based tree view to edit a XSL document. 
+            XSL IDE is implementing a generic Swing IDE platform which we are using Netbeans Platform.
+            WAP portal can be accessed by phone’s browser with internet connection. 
+            Non-OS based Phone has smaller screen sizes and limited contents to be displayed. 
+            Solution to create a presentation framework to work with mobile devices was essential.  
+            User preferences theming and shorten the interaction during content rendering. 
+            This application allows users to do exactly like a social networking website, l
+            ike make friends, comment, send messages in mobile phones. 
+
+            ----------------------
+
+            ## Skill set:
+
+            JAVA SE, XSL2.0, Netbeans Platform, Spring core, Spring-mvc, 
+            Javascript, jQuery, Javascript, SQL, PHP, PLSQL, Axis2
+            
+            ## Platforms: 
+
+            RHE4, Solaris SPARC 5.5, Tomcat 5, IBM Websphere 5, Oracle Weblogic 4
+            
+            ## Database:
+            Oracle 10g, MySQL
+
+      - layout: left
+        title: Ionnex Sdn Bhd
+        link: ionnex.com
+        sub_title: Mobile software developer
+        caption: 2005 - 2008
+        description: | # this will include new lines to allow paragraphs
+            ## 2005 - 2008 
+            > Develop and design Instant Messenger Application for mobile phone which connects to MSN, 
+            Yahoo, Gtalk and Device Profiler Application.
+
+            Mobile Phone Communication system.  The application consists of server and client.  
+            Server required to hold socket connections from clients and establishes messenger 
+            sessions to messenger providers (MSN, Yahoo etc). 
+            Client was developed by J2ME to support most phones in the market with a single set of source code. 
+            We were implementing a dynamic native Graphic User Interface (GUI) which can populate a set 
+            of GUI that suite all devices. Reason of using native graphics is to present an interactive, 
+            attractive and cool interface like we have in game applications.
+
+            -------------------------
+
+            ## Skills set involved:
+
+            J2ME, Java SE, Microsoft ASP.NET 2.0
+            
+            ## Database:
+            
+            MySQL, Microsoft SQL Server 2000
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
+      - layout: top-middle
+        title: Universiti Tunku Abdul Rahman
+        caption: 2003 - 2005
         sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        
+      - layout: top-middle
+        title: Tunku Abdul Rahman University College
+        caption: 2001 - 2003
+        sub_title: Diploma in Science
+          
+  - title: Certifications
+    layout: list
+    content:
+      - layout: top-middle
+        title: Probability Theory, Statistic and Exploratory Data Analysis
+        caption: Issued Sep 2020
+        sub_title: Coursera
+        link: https://www.coursera.org/account/accomplishments/certificate/PQF7EHSKPVSV
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+      - layout: top-middle
+        title: Certified Testers Foundation Level (CTFL)
+        caption: Issued Aug 2019
+        sub_title: ISTQB - International Software Testing Qualifications Board
+        link: https://www.mstb.org/CTFL.php
+        quote: > 
+          MY0037-19
+        
+  - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+      As a father of 3, with the remaining fractual time, I still find myself enjoy doing:
+      - Baduk/Go board game
+      - Running
+      - [Photographing](https://www.instagram.com/engiumax/) 
+    
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
