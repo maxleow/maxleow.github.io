@@ -53,8 +53,8 @@ about_content: | # this will include new lines to allow paragraphs
   data analysis and report visualization. 
   I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most specialized in: <mark>AWS</mark>, <mark>terraform</mark>, 
-  <mark>python</mark>, <mark>jenkins</mark> and <mark>Selenium</mark>
+  I am most specialized in: <mark>AWS</mark>, <mark>Terraform</mark>, 
+  <mark>Python</mark>, <mark>Jenkins</mark> and <mark>Selenium</mark>
 
 content:
   - title: Projects # Title for the section
@@ -104,7 +104,7 @@ content:
             ## 2018 - 2020 (QA)
             
             Design, implement and maintain product provisionining scripts using 
-            <mark>Ansible</mark>, <mark>Packer</mark> and terraform for the entire 
+            <mark>Ansible</mark>, <mark>Packer</mark> and Terraform for the entire 
             test automation pipelines. Promoting component testing as a left shift strategy.
 
             -------------------
@@ -112,7 +112,7 @@ content:
             ## 2016 - 2018 (QA)
             
             Leading <mark>Cucumber</mark> and <mark>Selenium</mark> projects development, such as 
-            coaching, library development, Writting [Chef](https://www.chef.io/) recipe, 
+            coaching, library development, Writting [CHEF](https://www.chef.io/) recipe, 
             preparing process and best practices for all the scrum teams.
 
             -------------------
@@ -128,7 +128,9 @@ content:
 
             ## 2013 - 2014 (Developer)  
             
-            Responsible for implementing features into PCO (Powercurve Origination). 
+            Responsible for implementing features into 
+            [PCO](https://www.experian.com/business/products/powercurve-originations) 
+            (Powercurve Origination). 
             Have joined a scrum team for more than a year. 
             The first person who implemented a new platform(RHEL) supported PCO (BPS, Web Engine).
 
