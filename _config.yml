@@ -48,13 +48,9 @@ linkedin_username: max-eng-iu-leow-a055b912
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Max and I'm a senior test automation engineer. 
-  As well as Quality Assurance, I also have experience making software, 
-  data analysis and report visualization. 
-  I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most specialized in: <mark>AWS</mark>, <mark>Terraform</mark>, 
-  <mark>Python</mark>, <mark>Jenkins</mark> and <mark>Selenium</mark>
+  Hi, my name's Max and I'm a senior test automation engineer.
+  I like to build tools for my job's problem, it is exciting to watch how my solution fits in.
+  I am working out on data analyze, machine learning and visualization for quality reports and observations.
 
 content:
   - title: Projects # Title for the section
@@ -68,11 +64,8 @@ content:
           - title:  achelois-armoury/helical-railgun
             icon: fab fa-github
             url: https://github.com/maxlinux
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Let every of your unit test count
+          Let every unit-test count
         description: | # this will include new lines to allow paragraphs
           I started this project during a hackathon event. We are using [Testrail](https://www.gurock.com/testrail/) 
           as our [Test Oracle](https://en.wikipedia.org/wiki/Test_Oracle). To publish the results, it often troublesome
