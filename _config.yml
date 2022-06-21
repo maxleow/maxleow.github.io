@@ -48,14 +48,27 @@ linkedin_username: max-eng-iu-leow-a055b912
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Max and I'm a senior test automation engineer.
-  I like to build tools for my job's problem, it is exciting to watch how my solution fits in.
-  I am working out on data analyze, machine learning and visualization for quality reports and observations.
-
+  Hi, my name is Max and I'm a senior test automation engineer.  
+  I like to build tools/libraries to solve my job's problems, it is exciting to watch how my solution fits in.  
+  I am working on data analysis and visualization for quality reports and observations for problem-solving.  
+  On top of that, I have cumulated years of experience in building and designing an in-house Selenium library as well as Jenkins pipeline with Ansible and Chef.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+          title: Testrail data
+          link: github.com/maxleow/testrail_data
+          additional_links:
+            - title:  maxleow/testrail_data
+              icon: fab fa-github
+              url: https://github.com/maxleow/testrail_data
+          quote: >
+            Handy library for retrieving big results
+          description: | # this will include new lines to allow paragraphs
+            This library is trying to create a convenient way of pulling the results and case info from 
+            Testrails(A Test management system) for analytic purposes. 
+            With the help of [Pandas](https://github.com/pandas-dev/pandas), we are gaining flexibility and speed in exploring the data.
       - layout: top-middle
         title: Helical railgun
         link: github.com/achelois-armoury/helical-railgun
@@ -70,7 +83,7 @@ content:
           I started this project during a hackathon event. We are using [Testrail](https://www.gurock.com/testrail/) 
           as our [Test Oracle](https://en.wikipedia.org/wiki/Test_Oracle). To publish the results, it often troublesome
           due to some dependencies behind the pipelines, which can be simplify through this solution.
-
+      
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
