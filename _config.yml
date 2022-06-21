@@ -57,18 +57,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-          title: Testrail data
-          link: github.com/maxleow/testrail_data
-          additional_links:
-            - title:  maxleow/testrail_data
-              icon: fab fa-github
-              url: https://github.com/maxleow/testrail_data
-          quote: >
-            Handy library for retrieving big results
-          description: | # this will include new lines to allow paragraphs
-            This library is trying to create a convenient way of pulling the results and case info from 
-            Testrails(A Test management system) for analytic purposes. 
-            With the help of [Pandas](https://github.com/pandas-dev/pandas), we are gaining flexibility and speed in exploring the data.
+        title: Testrail data
+        link: github.com/maxleow/testrail_data
+        additional_links:
+          - title:  maxleow/testrail_data
+            icon: fab fa-github
+            url: https://github.com/maxleow/testrail_data
+        quote: >
+          A handy library for retrieving big results
+        description: | # this will include new lines to allow paragraphs
+          This library is trying to create a convenient way of pulling the results and case info from 
+          Testrails(A Test management system) for analytic purposes. 
+          With the help of [Pandas](https://github.com/pandas-dev/pandas), we are gaining flexibility and speed in exploring the data.
+
       - layout: top-middle
         title: Helical railgun
         link: github.com/achelois-armoury/helical-railgun
