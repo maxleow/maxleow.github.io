@@ -96,7 +96,7 @@ content:
         quote: >
           Track your daily environment release effortlessly.
         description: |
-          The project you're describing is a tool for automating the versioning process of software releases. 
+          A tool for automating the versioning process of software releases. 
           It has several key features that streamline the versioning process and ensure that releases are properly labeled and tracked.
 
           The first feature is the auto-generation of semantic-environment_aware-timebased version numbers. 
@@ -124,13 +124,13 @@ content:
         quote: >
           Xray result importer script
         description: |
-          This project is a tool for importing the results of Postman executions into Jira Xray. 
+          This project is a library for importing the results of Postman executions into Jira Xray. 
           This allows for easier tracking and management of test results, 
           ensuring that all relevant data is captured and organized in a central location.
 
-          The tool works by integrating with both Postman and Jira Xray, 
+          The library works by integrating with both Postman and Jira Xray, 
           allowing for seamless transfer of data between the two systems. 
-          After each Postman execution, the tool will automatically import the results into Jira Xray, 
+          After each Postman execution, the library will automatically import the results into Jira Xray, 
           creating a new test execution and associating it with the appropriate test case.
 
           This process ensures that all test results are accurately tracked and stored, 
@@ -140,8 +140,21 @@ content:
           Overall, this project is designed to improve the efficiency and effectiveness of the testing process by 
           automating the import of test results from Postman into Jira Xray. 
           By ensuring that all test results are accurately tracked and managed, 
-          this tool helps to ensure the quality and reliability of software releases, 
-          leading to increased customer satisfaction and business success.
+          this library helps to ensure the quality, reliability and reusability of multiple Postman Collections,
+          leading to increased of collaboration and maintainability.
+      - layout: top-middle
+        title: Duck Jenkins
+        link: https://github.com/maxleow/duck_jenkins
+        additional_links:
+          - title:  maxleow/testrail_data
+            icon: fab fa-github
+            url: https://github.com/maxleow/duck_jenkins
+        quote: >
+          Data extractor for Jenkins
+        description: |
+          To extract build data from Jenkins pipelines with greater freedom and ease, 
+          and to enable more efficient querying of this data.
+        
       - layout: top-middle
         title: Testrail data
         link: github.com/maxleow/testrail_data
