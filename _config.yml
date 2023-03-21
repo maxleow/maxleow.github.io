@@ -48,13 +48,100 @@ linkedin_username: max-eng-iu-leow-a055b912
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Max and I am an experienced Senior Test Automation Engineer with a strong background in building effective tools and libraries to solve complex problems. With a passion for creating efficient solutions, I am dedicated to delivering high-quality work that meets and exceeds the expectations of stakeholders.
+  Hello, my name is Max and I am an experienced Senior Test Automation Engineer with a strong background 
+  in building effective tools and libraries to solve complex problems. With a passion for creating efficient solutions, 
+  I am dedicated to delivering high-quality work that meets and exceeds the expectations of stakeholders.
 
-  My expertise lies in data analysis and visualization, where I specialize in generating quality reports and observations to drive effective problem-solving. Additionally, I have extensive experience in designing and building in-house Selenium libraries, as well as creating efficient Test pipelines using Ansible, Chef, Tekton and python.
+  My expertise lies in data analysis and visualization, 
+  where I specialize in generating quality reports and observations to drive effective problem-solving. 
+  Additionally, I have extensive experience in designing and building in-house Selenium libraries, 
+  as well as creating efficient Test pipelines using Ansible, Chef, Tekton, and Python.
+
+  In my new role as QA Lead, I will be leveraging my technical expertise and leadership skills to manage 
+  the quality assurance process for our organization. 
+  This will involve working closely with cross-functional teams to ensure that all software releases meet the highest standards of quality, 
+  performance, and reliability. I will also be responsible for developing and implementing effective test strategies, 
+  as well as designing and executing test cases to identify and resolve issues in a timely and efficient manner.
+
+  Overall, I am excited to take on this new challenge and leverage my skills and experience to help drive our organization's success.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: Cucumber Jira Xray collaborator
+        link: https://github.com/maxleow/cujirax
+        additional_links:
+          - title:  maxleow/cujirax
+            icon: fab fa-github
+            url: https://github.com/maxleow/cujirax
+        quote: >
+          From cucumber.json to everything in Xray.
+        description: |
+          This project automates the process of creating test plans, executions, 
+          and tests in Xray by translating data from a cucumber.json result file. 
+          The tool imports the data and automatically creates the necessary test assets in Xray, 
+          streamlining the process and reducing the risk of errors. 
+          Additionally, the tool exports the results back into the respective executions, 
+          making it easier to track and manage testing progress. 
+          Overall, this project improves the efficiency and accuracy of the testing process 
+          by automating the creation and management of test assets in Xray.
+      - layout: top-middle
+        title: Timebase release for Jira
+        link: https://github.com/maxleow/timebased-release
+        additional_links:
+          - title:  maxleow/timebased-release
+            icon: fab fa-github
+            url: https://github.com/maxleow/timebased-release
+        quote: >
+          Track your daily environment release effortlessly.
+        description: |
+          The project you're describing is a tool for automating the versioning process of software releases. 
+          It has several key features that streamline the versioning process and ensure that releases are properly labeled and tracked.
+
+          The first feature is the auto-generation of semantic-environment_aware-timebased version numbers. 
+          This means that the tool will automatically create a version number that includes information about the release, 
+          such as the environment it's intended for (in this case SIT), and the date on which it was generated (in this case 2023.03.17). 
+          This helps to ensure that each version is uniquely identified and can be easily tracked.
+
+          The second feature is the ability to update the "fixVersion" field in Jira issues to reflect the daily generated version. 
+          This helps to keep track of which issues have been addressed in which versions,
+          making it easier to track progress and identify any issues that may have been introduced in a particular release.
+
+          Finally, the tool includes a mechanism for automatically getting the latest version when it enters into a new day window. 
+          This ensures that the version numbers stay current and 
+          are always accurately reflecting the most recent changes and updates to the software.
+
+          Overall, this project is designed to simplify the versioning process and ensure that releases are properly labeled and tracked, 
+          making it easier to manage software development and releases over time.
+      - layout: top-middle
+        title: Xray for Postman
+        link: https://github.com/maxleow/xray
+        additional_links:
+          - title:  maxleow/xray
+            icon: fab fa-github
+            url: https://github.com/maxleow/xray
+        quote: >
+          Xray result importer script
+        description: |
+          This project is a tool for importing the results of Postman executions into Jira Xray. 
+          This allows for easier tracking and management of test results, 
+          ensuring that all relevant data is captured and organized in a central location.
+
+          The tool works by integrating with both Postman and Jira Xray, 
+          allowing for seamless transfer of data between the two systems. 
+          After each Postman execution, the tool will automatically import the results into Jira Xray, 
+          creating a new test execution and associating it with the appropriate test case.
+
+          This process ensures that all test results are accurately tracked and stored, 
+          making it easier to analyze and report on test results over time. 
+          It also eliminates the need for manual data entry, reducing the risk of errors and streamlining the testing process.
+
+          Overall, this project is designed to improve the efficiency and effectiveness of the testing process by 
+          automating the import of test results from Postman into Jira Xray. 
+          By ensuring that all test results are accurately tracked and managed, 
+          this tool helps to ensure the quality and reliability of software releases, 
+          leading to increased customer satisfaction and business success.
       - layout: top-middle
         title: Testrail data
         link: github.com/maxleow/testrail_data
@@ -108,6 +195,8 @@ content:
             as well as designing and implementing an effective migration plan. Through this effort, 
             we were able to significantly improve our performance testing capabilities and deliver more accurate and reliable results.
 
+            ---------------------- 
+
             ## 2022 November - December
             I automated the quality check process for every code change committed to AWS codecommit, 
             which included validating Jira keys and author email. 
@@ -117,6 +206,8 @@ content:
             reporting the deployment status on each environment. 
             This allowed for improved visibility and streamlined communication across the project team, 
             enabling prompt and effective decision-making.
+
+            ---------------------- 
 
             ## 2022 September - 2022 November
             Designed and automated API user journey flows using Postman, Tekton and Xray, 
