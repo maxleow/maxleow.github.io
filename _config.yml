@@ -48,10 +48,9 @@ linkedin_username: max-eng-iu-leow-a055b912
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Max and I'm a senior test automation engineer.  
-  I like to build tools/libraries to solve my job's problems, it is exciting to watch how my solution fits in.  
-  I am working on data analysis and visualization for quality reports and observations for problem-solving.  
-  On top of that, I have cumulated years of experience in building and designing an in-house Selenium library as well as Jenkins pipeline with Ansible and Chef.
+  Hello, my name is Max and I am an experienced Senior Test Automation Engineer with a strong background in building effective tools and libraries to solve complex problems. With a passion for creating efficient solutions, I am dedicated to delivering high-quality work that meets and exceeds the expectations of stakeholders.
+
+  My expertise lies in data analysis and visualization, where I specialize in generating quality reports and observations to drive effective problem-solving. Additionally, I have extensive experience in designing and building in-house Selenium libraries, as well as creating efficient Test pipelines using Ansible, Chef, Tekton and python.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -89,11 +88,47 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: celcomdigi bhd
+        link: https://corporate.celcomdigi.com/
+        sub_title: QA lead
+        caption: September 2022 - Present
+        description: |
+            ## 2022 December - Present (QA Lead)
+            During my work, I successfully implemented a pipeline that collected build information from Tekton pipelines, 
+            allowing for easy access and retrieval of important data. 
+            I then utilized AWS Athena and crawler to effectively manipulate and organize this data, 
+            enabling me to gain valuable insights and identify key trends. Finally, 
+            I leveraged AWS Quicksight to create an intuitive and informative QA dashboard, 
+            providing stakeholders with real-time visibility into project status and enabling informed decision-making.
+
+            In addition to the tasks mentioned earlier, 
+            I also played a key role in driving a performance test transformation from JMeter to Locust, 
+            an open-source load testing tool that provides more flexibility and scalability. 
+            This transition involved carefully evaluating the needs of the project and determining the most appropriate tool for the job, 
+            as well as designing and implementing an effective migration plan. Through this effort, 
+            we were able to significantly improve our performance testing capabilities and deliver more accurate and reliable results.
+
+            ## 2022 November - December
+            I automated the quality check process for every code change committed to AWS codecommit, 
+            which included validating Jira keys and author email. 
+            This automation helped to ensure that all code changes met the required standards and guidelines, 
+            saving time and effort for the development team. 
+            Furthermore, I extended the automation bot to Jira comments, 
+            reporting the deployment status on each environment. 
+            This allowed for improved visibility and streamlined communication across the project team, 
+            enabling prompt and effective decision-making.
+
+            ## 2022 September - 2022 November
+            Designed and automated API user journey flows using Postman, Tekton and Xray, 
+            solved test data consistency issues, established a monitoring process for test scripts and product defects, 
+            and provided guidance, training, and coaching to enhance the process and improve team skills. 
+            These efforts significantly improved the project's quality and efficiency while enhancing team capabilities.
+      - layout: left
         title: Experian 
         link: experian.com
         # link_text: boringcompany.com
         sub_title: Senior QA Engineer
-        caption: November 2013 - Present
+        caption: November 2013 - September 2022
         description: | # this will include new lines to allow paragraphs
             ## 2020 - Present (QA)
             
@@ -108,7 +143,7 @@ content:
 
             ----------------------    
 
-            ## 2018 - 2020 (QA)
+            ## 2018 - 2022 (QA)
             
             Design, implement and maintain product provisionining scripts using 
             <mark>Ansible</mark>, <mark>Packer</mark> and Terraform for the entire 
@@ -187,7 +222,6 @@ content:
             RHE6, HP-Unix, Sun Solaris SPARC, Sun Solaris x86.
 
             ------------------------------
-      
       - layout: left
         title: Amdocs Changing Worlds Malaysia
         link: changingworlds.com
@@ -234,7 +268,6 @@ content:
             
             ## Database:
             Oracle 10g, MySQL
-
       - layout: left
         title: Ionnex Sdn Bhd
         link: ionnex.com
