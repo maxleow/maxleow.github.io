@@ -444,7 +444,13 @@ content:
         link: https://www.mstb.org/CTFL.php
         quote: > 
           MY0037-19
-        
+      - layout: top-middle
+        title: Certified Testers Test Automation Engineer (CT-TAE)
+        caption: Issued Aug 2023
+        sub_title: ISTQB - International Software Testing Qualifications Board
+        link: https://www.mstb.org/CT-TAE.php
+        quote: > 
+          TAE-MY0003-23
   - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
