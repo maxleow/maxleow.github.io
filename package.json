@@ -1,0 +1,17 @@
+{
+  "name": "maxleow.github.io",
+  "version": "1.0.0",
+  "description": "Max Leow Resume Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate-pdf": "node generate-pdf.js",
+    "serve": "bundle exec jekyll serve --host=0.0.0.0 --port=4000 --no-watch"
+  },
+  "keywords": ["resume", "jekyll", "portfolio"],
+  "author": "Max Leow",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.49.1"
+  }
+}
