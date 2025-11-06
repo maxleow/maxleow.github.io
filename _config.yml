@@ -23,7 +23,7 @@ github_username:  maxlinux
 # flickr_username: jekyll
 # instagram_username: jameswgrant
 linkedin_username: max-eng-iu-leow-a055b912
-# xing_username: jekyll
+# xing_username: jekyll https://www.xing.com/profile/Max_Eng_Iu_Leow/cv
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -55,12 +55,11 @@ about_content: | # this will include new lines to allow paragraphs
 
   **AI-Driven Quality Enhancement Progress:**
 
-  - **Intelligent Documentation System:** Implemented enterprise RAG system for technical documentation management, achieving early results showing 75% reduction in documentation search time and providing enhanced knowledge access for engineering teams
-
-  - **AI-Powered Test Generation:** Developed and piloted LLM-powered test case generation framework, initial results demonstrate 60% improvement in test coverage while significantly reducing manual test creation effort
-  - **Autonomous UI Testing Initiative:** Leading implementation of Anthropic Computer Use for automated UI testing, early pilot showing promising 70% reduction in manual testing cycles with continued optimization underway
-  - **Context Engineering Optimization:** Architected advanced prompt engineering strategies for AI tools, ongoing refinements showing 85% improvement in response accuracy and establishing best practices for AI-human collaboration
-  - **AI Adoption Program:** Spearheading cross-departmental AI tool adoption initiatives, with pilot programs across 3 departments showing early productivity improvements and establishing framework for broader implementation
+  - **Intelligent Documentation System:** Implemented enterprise RAG system for technical documentation management, significantly reducing documentation search time and enhancing knowledge accessibility for engineering teams
+  - **AI-Powered Test Generation:** Developed and piloted LLM-powered test case generation framework, improving test coverage while reducing manual test creation effort
+  - **Autonomous UI Testing Initiative:** Leading implementation of Anthropic Computer Use for automated UI testing, reducing manual testing cycles with continued optimization underway
+  - **Context Engineering Optimization:** Architected advanced prompt engineering strategies for AI tools, improving response accuracy and establishing best practices for AI-human collaboration
+  - **AI Adoption Program:** Spearheading cross-departmental AI tool adoption initiatives across multiple departments, establishing framework for broader implementation
 
 
   **Progressive Innovation & Impact Indicators:**
@@ -158,18 +157,6 @@ content:
           Built a Python library for extracting and analyzing TestRail data using Pandas, providing flexible 
           data exploration capabilities for test management analytics and reporting.
           
-      - layout: top-middle
-        title: Helical Railgun
-        link: https://github.com/maxlinux/helical-railgun
-        additional_links:
-          - title:  maxlinux/helical-railgun
-            icon: fab fa-github
-            url: https://github.com/maxlinux/helical-railgun
-        quote: >
-          Streamlined unit test result publishing
-        description: |
-          Developed during a hackathon to simplify TestRail result publishing by resolving pipeline dependencies 
-          and automating the integration between unit tests and test management systems.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -180,21 +167,22 @@ content:
         caption: September 2022 - Present
         description: |
             ## Tech Lead (Software Quality Systems) - 2024 - Present
-            * **RAG Technical Documentation System:** Architected and deployed enterprise-grade Retrieval-Augmented Generation system for technical documentation management, improving knowledge accessibility and reducing documentation search time by 75%
-            * **AI-Powered Test Case Generation:** Developed and implemented automated test case generation framework using Large Language Models, increasing test coverage by 60% while reducing manual test creation effort by 80%
-            * **Anthropic Computer Use Integration:** Pioneered test case execution automation using Anthropic's Computer Use capabilities, enabling autonomous UI testing and reducing manual testing cycles by 70%
-            * **Context Engineering Solutions:** Designed and implemented advanced prompt engineering and context optimization strategies for AI tools, improving response accuracy and relevance by 85%
+            * **RAG Technical Documentation System:** Architected and deployed enterprise-grade Retrieval-Augmented Generation system for technical documentation management, improving knowledge accessibility and search efficiency
+            * **AI-Powered Test Case Generation:** Developed and implemented automated test case generation framework using Large Language Models, expanding test coverage while reducing manual test creation effort
+            * **Anthropic Computer Use Integration:** Pioneered test case execution automation using Anthropic's Computer Use capabilities, enabling autonomous UI testing and reducing manual testing cycles
+            * **Context Engineering Solutions:** Designed and implemented advanced prompt engineering and context optimization strategies for AI tools, improving response accuracy and relevance
             * **AI Tool Ecosystem Support:** Established comprehensive support framework for user teams adopting AI tools, including training programs, best practices documentation, and technical consultation services
-            * **Efficiency Optimization:** Led organization-wide AI tool implementation initiatives, resulting in 45% improvement in overall team productivity and 65% reduction in repetitive manual tasks
+            * **Efficiency Optimization:** Led organization-wide AI tool implementation initiatives, improving overall team productivity and reducing repetitive manual tasks
             * **Technical Leadership:** Mentored development teams on AI integration best practices and established governance frameworks for responsible AI implementation
 
             ## Tech Lead (Generative AI) - December 2023 - 2024
+            * Built and led a team of 6 AI specialists to drive organizational AI initiatives and innovation
             * Lead and manage three cross-functional teams, including two dedicated Test Automation teams across multiple projects
             * Establish and maintain best practices, guidelines, and standards to enhance test reusability and automation coverage
             * Successfully extended Test Automation adoption from development environments to SIT, Staging, and Production
-            * Spearhead Generative AI initiatives, creating and maintaining AI-powered assessment assistants with measurable performance improvements
+            * Spearhead Generative AI initiatives, creating and maintaining AI-powered assessment assistants for quality enhancement
             * Monitor and analyze metrics for AI-driven solutions, driving continuous improvement in automation efficiency
-            * Drive innovation in both test automation and AI applications, resulting in 40% improvement in testing efficiency
+            * Drive innovation in both test automation and AI applications, improving testing efficiency
 
             ## Test Automation Lead - June 2023 - December 2023
             * **Certification:** Achieved Certified Tester Test Automation Engineer (TAE-MY0003-23)
@@ -202,13 +190,13 @@ content:
             * Developed scalable framework supporting 50+ Systems Under Test across Web UI, REST API, SOAP, and Mobile applications
             * Coached and mentored team members, accelerating automation adoption and establishing best practices across projects
             * Implemented test pipelines using Terraform for automated build and deployment processes
-            * Achieved 85% test automation coverage across critical business applications
+            * Achieved comprehensive test automation coverage across critical business applications
 
             ## Senior QA Engineer - December 2022 - June 2023
             * Implemented comprehensive data pipeline for collecting and analyzing build information from Tekton pipelines
             * Utilized AWS services (Bedrock, EC2, ECS) and Databricks to create real-time QA dashboards for project visibility
             * Led transformation of performance testing from JMeter to Locust, enhancing flexibility and scalability
-            * Improved performance testing efficiency by 60% through automated test generation and execution
+            * Improved performance testing efficiency through automated test generation and execution
 
             ## QA Engineer - September 2022 - December 2022
             * Automated quality gate checks for AWS CodeCommit changes, including Jira key validation and author verification
