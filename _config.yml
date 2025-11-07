@@ -184,25 +184,14 @@ content:
             * Monitor and analyze metrics for AI-driven solutions, driving continuous improvement in automation efficiency
             * Drive innovation in both test automation and AI applications, improving testing efficiency
 
-            ## Test Automation Lead - June 2023 - December 2023
+            ## Test Automation Lead - September 2022 - December 2023
             * **Certification:** Achieved Certified Tester Test Automation Engineer (TAE-MY0003-23)
-            * Designed and implemented comprehensive Keyword-Based Test Automation Framework using RobotFramework
-            * Developed scalable framework supporting 50+ Systems Under Test across Web UI, REST API, SOAP, and Mobile applications
+            * Designed and implemented comprehensive Keyword-Based Test Automation Framework supporting 50+ Systems Under Test across Web UI, REST API, SOAP, and Mobile applications
             * Coached and mentored team members, accelerating automation adoption and establishing best practices across projects
             * Implemented test pipelines using Terraform for automated build and deployment processes
-            * Achieved comprehensive test automation coverage across critical business applications
+            * Migrate performance testing from JMeter to Locust, enhancing flexibility and scalability.
+            * Automated quality gate checks for AWS CodeCommit changes, including Jira key validation and author verification.
 
-            ## Senior QA Engineer - December 2022 - June 2023
-            * Implemented comprehensive data pipeline for collecting and analyzing build information from Tekton pipelines
-            * Utilized AWS services (Bedrock, EC2, ECS) and Databricks to create real-time QA dashboards for project visibility
-            * Led transformation of performance testing from JMeter to Locust, enhancing flexibility and scalability
-            * Improved performance testing efficiency through automated test generation and execution
-
-            ## QA Engineer - September 2022 - December 2022
-            * Automated quality gate checks for AWS CodeCommit changes, including Jira key validation and author verification
-            * Developed automated Jira integration bot for deployment status reporting across multiple environments
-            * Implemented comprehensive code quality processes ensuring adherence to development standards
-            * Enhanced project visibility and stakeholder communication through automated reporting solutions
       - layout: left
         title: Experian 
         link: https://experian.com
