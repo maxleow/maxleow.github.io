@@ -228,75 +228,21 @@ content:
             * First engineer to implement RHEL platform support for PCO (BPS, Web Engine)
             * **Technologies:** PowerCurve Originations, RHEL, BPS, Web Engine
       - layout: left
-        title: Openet
-        link: https://openet.com
-        sub_title: Software Design Engineer
-        caption: November 2010 - November 2013
+        title: Early Career (Software Engineering & QA Automation)
+        sub_title: Software Engineer / QA Automation Specialist
+        caption: 2005 - 2015
         description: |
-            ## Software Design Engineer - 2012 - 2013
-            * Developed web-based configuration system for PCRF (Policy and Charging Rules Function) management
-            * Implemented UI solutions for PCEF (Policy Charging Enforcement Function) vendors in telecommunications
-            * Designed and delivered solutions compliant with 3GPP standards for telecom industry requirements
-            * **Technologies:** PCRF, PCEF, 3GPP standards, Web-based UI
-
-            ## Software Engineer - 2011 - 2012
-            * Maintained and enhanced Openet Installation Framework for multi-platform component deployment
-            * Gathered requirements and implemented framework enhancements to support diverse platform deployments
-            * Streamlined installation processes across multiple operating systems and environments
-            * **Technologies:** Multi-platform deployment, Installation frameworks
-
-            ## Junior Software Engineer - 2010 - 2011
-            * Integrated Selenium web automation testing into existing automated test framework
-            * Developed automated deployment and testing solutions for engineering teams
-            * Contributed to framework architecture supporting automated testing workflows
-            * **Technologies:** Selenium, Automated testing frameworks
-
-            **Technical Stack:** JBoss Application Server, Maven, EJB 3.0, Hibernate 3.0, SEAM, GWT, 
-            HTML, JavaScript, JSF 2.0, Oracle 11g, H2 Database
+            **10+ years progressive experience** in software development, telecommunications, and test automation across multiple organizations:
             
-            **Platforms:** RHEL 6, HP-Unix, Sun Solaris SPARC, Sun Solaris x86
-
-      - layout: left
-        title: Amdocs Changing Worlds Malaysia
-        link: https://changingworlds.com
-        sub_title: Software Design Engineer
-        caption: 2008 - 2010
-        description: |
-            ## Software Design Engineer - 2009 - 2010
-            * Maintained Device Description Repository (DDR) for mobile device specification management
-            * Developed solutions for UAProf and WURFL data collection and hosting for telecom WAP portals
-            * Implemented mobile device compatibility solutions for telecommunications companies
-            * **Technologies:** DDR, UAProf, WURFL, WAP portals
-
-            ## Software Engineer - 2008 - 2009
-            * Maintained and enhanced XSL IDE (Extensible Style Language Integrated Development Environment)
-            * Developed translation engine for generating device-optimized HTML/WAP pages
-            * Implemented NetBeans Platform-based IDE with graphical tree view for XSL document editing
-            * Created mobile-optimized presentation framework with user preference theming
-            * **Technologies:** XSL, NetBeans Platform, Mobile presentation frameworks
-
-            **Technical Stack:** Java SE, XSL 2.0, NetBeans Platform, Spring Core, Spring MVC, 
-            JavaScript, jQuery, SQL, PHP, PL/SQL, Axis2
+            **Key Achievements:**
+            * Pioneered Selenium automation integration and automated testing frameworks (Openet, 2010-2013)
+            * Developed telecommunications solutions including PCRF/PCEF management systems and mobile device compatibility platforms (Openet & Amdocs, 2008-2013)
+            * Built cross-platform mobile instant messenger with multi-protocol support (MSN, Yahoo, GTalk) and scalable server architecture (Ionnex, 2005-2008)
+            * Implemented automated environment provisioning and PowerCurve Originations platform features (Experian, 2013-2015)
             
-            **Platforms:** RHEL 4, Solaris SPARC 5.5, Tomcat 5, IBM WebSphere 5, Oracle WebLogic 4
+            **Technical Expertise:** Java SE/EE, J2ME, Spring MVC, Selenium, NetBeans Platform, JBoss, Oracle, MySQL, RHEL, Solaris, WebSphere, WebLogic, ASP.NET, XSL, multi-platform deployment
             
-            **Databases:** Oracle 10g, MySQL
-
-      - layout: left
-        title: Ionnex Sdn Bhd
-        link: https://ionnex.com
-        sub_title: Mobile Software Developer
-        caption: 2005 - 2008
-        description: |
-            ## Mobile Software Developer - 2005 - 2008
-            * Designed and developed cross-platform Instant Messenger application for mobile devices
-            * Implemented multi-protocol support (MSN, Yahoo, GTalk) with server-client architecture
-            * Developed J2ME client with dynamic native GUI supporting diverse mobile device specifications
-            * Created scalable server solution managing multiple socket connections and messenger protocol integrations
-            * Delivered interactive mobile communication platform with game-like user interface
-            * **Technologies:** J2ME, Java SE, Microsoft ASP.NET 2.0, Socket programming, Multi-protocol integration
-            
-            **Databases:** MySQL, Microsoft SQL Server 2000
+            **Organizations:** Experian (2013-2015) | Openet (2010-2013) | Amdocs Changing Worlds (2008-2010) | Ionnex (2005-2008)
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
